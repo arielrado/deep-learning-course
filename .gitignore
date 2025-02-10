@@ -125,3 +125,9 @@ cython_debug/
 .DS_Store
 *.zip
 *.csv
+
+*.bin
+*.binary
+*.tar.gz
+class_names.txt
+fold_indices.txt
